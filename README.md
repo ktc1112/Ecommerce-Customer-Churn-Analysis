@@ -1,2 +1,2 @@
 # Ecommerce-Customer-Churn-Analysis
-End-to-End data pipeline using SQL and Julia to predict customer churn and improve re
+End-to-End data pipeline using SQL, Julia, Python and Power BI to predict customer churn and improve retention.
